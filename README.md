@@ -376,23 +376,11 @@ Includes:
 
 ✔ Refreshable Architecture
 
----
-
-#  License
-
-This project is licensed under the MIT License.
-
----
-
 #  Author
 
 **Devyansh Ajmera**
 
 Business Intelligence | Data Analytics | Power BI | Excel | DAX | Power Query
-
-GitHub: *(Add your GitHub Profile)*
-
-LinkedIn: *(Add your LinkedIn Profile)*
 
 ---
 
