@@ -143,30 +143,20 @@ The solution automatically:
 
 ## Executive Summary
 
-> *(Insert Screenshot Here)*
-
 ```
-assets/executive-summary.png
+<img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/6761cfd9-5edd-4026-a5bd-3811dd2f318b" />
+
 ```
 
 ---
 
 ## RM & Agent Analysis
 
-> *(Insert Screenshot Here)*
+> 
 
 ```
-assets/rm-analysis.png
-```
+<img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/a2c98d94-34e8-47a4-a085-08d04fa189f8" />
 
----
-
-## Product Analysis
-
-> *(Insert Screenshot Here)*
-
-```
-assets/product-analysis.png
 ```
 
 ---
