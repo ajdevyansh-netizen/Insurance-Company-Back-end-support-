@@ -139,28 +139,6 @@ The solution automatically:
 
 ---
 
-#  Dashboard Preview
-
-## Executive Summary
-
-```
-<img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/6761cfd9-5edd-4026-a5bd-3811dd2f318b" />
-
-```
-
----
-
-## RM & Agent Analysis
-
-> 
-
-```
-<img width="1282" height="723" alt="image" src="https://github.com/user-attachments/assets/a2c98d94-34e8-47a4-a085-08d04fa189f8" />
-
-```
-
----
-
 #  Repository Structure
 
 ```
